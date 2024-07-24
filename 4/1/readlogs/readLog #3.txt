@@ -1,0 +1,21 @@
+Wait | Semaphore | 33764921
+Take | Semaphore | 33767828
+Take | Mutex | 33776656
+Read | Page: 3 | 33777406
+Free | Mutex | 33777406
+Free | Semaphore | 33777406
+
+Wait | Semaphore | 33777406
+Take | Semaphore | 33777406
+Take | Mutex | 33790671
+Read | Page: 11 | 33791593
+Free | Mutex | 33791593
+Free | Semaphore | 33791593
+
+Wait | Semaphore | 33791593
+Take | Semaphore | 33793812
+Take | Mutex | 33805656
+Read | Page: 4 | 33806953
+Free | Mutex | 33806953
+Free | Semaphore | 33806953
+
